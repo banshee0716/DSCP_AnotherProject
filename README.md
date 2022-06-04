@@ -1,0 +1,3 @@
+# DSCP_AnotherProject
+
+> In the final report of the course Statistics in Education (II), I used python's numpy, panda, scipy modules, and excels for basic data preprocessing, data visualization, and statistical analysis, and calculated its p-value and judged its significance against the test results.<br><br>This program performs descriptive statistics, plots the time-series changes of various cancers in different years, calculates and plots the Pearson correlation coefficient between each variable, and performs simple regression analysis to interpret the relationship between cancers and carbon emissions. 
